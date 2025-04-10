@@ -1,0 +1,10 @@
+python kitabı
+
+önsöz: bu kitap çok güzel olacak 
+
+ilk bölüm: değişkenler ve veri tipleri
+
+değişkenler çok önemlidir.
+
+
+
